@@ -1,0 +1,29 @@
+.foto{
+    margin:5px;
+        border:solid 4px #cccccc;
+       justify-content: center;
+    
+    }
+.principal{
+     border: solid 1px;
+     padding: 10px;
+     width: 80%;
+     margin: 0 auto;
+     background:#fdbcff
+ }
+ 
+
+  legend{
+     border:solid 1px #a01154;
+     padding:5px;
+     font-weight:bold;
+     border-radius:20px;
+     background:#ce1ac5
+     
+  }
+
+   body{
+       background:url(fondo.jpg);
+       background-size:100%;
+       background-attachment:fired;
+   }
